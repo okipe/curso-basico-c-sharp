@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "operadores-relacionales", "curso-basico-c-sharp\operadores-relacionales.csproj", "{D15BFAB3-D317-480E-BEFB-B7E47A7277C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "strings", "strings\strings.csproj", "{779D78D6-491E-493E-A036-020B12A99DE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D15BFAB3-D317-480E-BEFB-B7E47A7277C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D15BFAB3-D317-480E-BEFB-B7E47A7277C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D15BFAB3-D317-480E-BEFB-B7E47A7277C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D15BFAB3-D317-480E-BEFB-B7E47A7277C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{779D78D6-491E-493E-A036-020B12A99DE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{779D78D6-491E-493E-A036-020B12A99DE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{779D78D6-491E-493E-A036-020B12A99DE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{779D78D6-491E-493E-A036-020B12A99DE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC7583D8-8E8F-41D8-8FD8-EB65D737ED91}
+	EndGlobalSection
+EndGlobal
